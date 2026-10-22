@@ -108,8 +108,11 @@ This project presents a commercial sales performance dashboard developed in Powe
 <img width="1464" height="821" alt="Faixas de Vendas por Categorias e Pontos de Vendas" src="https://github.com/user-attachments/assets/e190c950-68e3-4715-81a3-8f0f4af8a617" />
 <img width="1455" height="820" alt="Principais Influenciadores de Vendas" src="https://github.com/user-attachments/assets/30d621ad-99a5-416d-90c7-a40607db5f20" /><img width="1461" height="817" alt="Perfomance dos Vendedores por Região" src="https://github.com/user-attachments/assets/7db51f05-049c-434d-9e35-31667d4a63b8" />
 
+
 **Project File**
 
+Dashboard Comercial - Perfomance de Vendas.pbix
+Dados_Comerciais.xlsx
 
 
 **Credits \& Learning Context**
@@ -231,7 +234,8 @@ Este projeto apresenta um dashboard de performance de vendas desenvolvido no Pow
 
 **Arquivo do Projeto**
 
-
+Dashboard Comercial - Perfomance de Vendas.pbix
+Dados_Comerciais.xlsx
 
 **Créditos e Contexto de Aprendizagem**
 

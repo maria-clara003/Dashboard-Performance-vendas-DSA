@@ -112,6 +112,7 @@ This project presents a commercial sales performance dashboard developed in Powe
 **Project File**
 
 Dashboard Comercial - Perfomance de Vendas.pbix
+
 Dados_Comerciais.xlsx
 
 
@@ -235,6 +236,7 @@ Este projeto apresenta um dashboard de performance de vendas desenvolvido no Pow
 **Arquivo do Projeto**
 
 Dashboard Comercial - Perfomance de Vendas.pbix
+
 Dados_Comerciais.xlsx
 
 **Créditos e Contexto de Aprendizagem**

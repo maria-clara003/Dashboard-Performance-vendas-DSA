@@ -103,17 +103,12 @@ This project presents a commercial sales performance dashboard developed in Powe
 
 **Dashboard Preview**
 
-
-
-Screenshots of the dashboard will be added here.
-
-
+<img width="1467" height="821" alt="índice" src="https://github.com/user-attachments/assets/1a133bfe-6c1a-4274-b8e2-52bf01ff6171" />
+<img width="1465" height="822" alt="Narrativa Inteligente" src="https://github.com/user-attachments/assets/47a1f7cc-9e39-4377-a37c-0604556717d0" />
+<img width="1464" height="821" alt="Faixas de Vendas por Categorias e Pontos de Vendas" src="https://github.com/user-attachments/assets/e190c950-68e3-4715-81a3-8f0f4af8a617" />
+<img width="1455" height="820" alt="Principais Influenciadores de Vendas" src="https://github.com/user-attachments/assets/30d621ad-99a5-416d-90c7-a40607db5f20" /><img width="1461" height="817" alt="Perfomance dos Vendedores por Região" src="https://github.com/user-attachments/assets/7db51f05-049c-434d-9e35-31667d4a63b8" />
 
 **Project File**
-
-
-
-\- `.pbix` — Power BI dashboard file.
 
 
 
@@ -229,17 +224,12 @@ Este projeto apresenta um dashboard de performance de vendas desenvolvido no Pow
 
 **Prévia do Dashboard**
 
-
-
-As capturas de tela do dashboard serão adicionadas aqui.
-
-
+<img width="1467" height="821" alt="índice" src="https://github.com/user-attachments/assets/1a133bfe-6c1a-4274-b8e2-52bf01ff6171" />
+<img width="1465" height="822" alt="Narrativa Inteligente" src="https://github.com/user-attachments/assets/47a1f7cc-9e39-4377-a37c-0604556717d0" />
+<img width="1464" height="821" alt="Faixas de Vendas por Categorias e Pontos de Vendas" src="https://github.com/user-attachments/assets/e190c950-68e3-4715-81a3-8f0f4af8a617" />
+<img width="1455" height="820" alt="Principais Influenciadores de Vendas" src="https://github.com/user-attachments/assets/30d621ad-99a5-416d-90c7-a40607db5f20" /><img width="1461" height="817" alt="Perfomance dos Vendedores por Região" src="https://github.com/user-attachments/assets/7db51f05-049c-434d-9e35-31667d4a63b8" />
 
 **Arquivo do Projeto**
-
-
-
-\- `.pbix` — Arquivo do dashboard desenvolvido no Power BI.
 
 
 
